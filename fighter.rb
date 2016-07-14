@@ -18,10 +18,10 @@ class Fighter
 
 end
 
-goku = Fighter.new("Goku", 9000, 120)
-pikachu = Fighter.new("Pikachu", 8000, 60)
+# goku = Fighter.new("Goku", 9000, 120)
+# pikachu = Fighter.new("Pikachu", 8000, 60)
 
-puts goku.attack(pikachu)
-puts pikachu.inspect
-pikachu.attack(goku)
-goku.inspect
+# puts goku.attack(pikachu)
+# puts pikachu.inspect
+# pikachu.attack(goku)
+# goku.inspect
